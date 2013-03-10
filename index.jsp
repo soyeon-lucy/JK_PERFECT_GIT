@@ -6,7 +6,7 @@
 <HEAD>
 
 <TITLE>
-Idea salon
+:-> Idea salon
 </TITLE>
 
 </HEAD>
